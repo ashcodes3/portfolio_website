@@ -16,16 +16,6 @@ A modern, premium portfolio website built with **vanilla HTML, CSS & JavaScript*
 
 <br/>
 
-## 🖼️ Preview
-
-| Hero | Experience |
-|:---:|:---:|
-| ![Hero Section](https://via.placeholder.com/600x340/0a0a0f/6366f1?text=Hero+Section) | ![Experience Section](https://via.placeholder.com/600x340/0f0f18/8b5cf6?text=Experience+Timeline) |
-
-> 💡 *Replace placeholder images above with actual screenshots after deploying.*
-
-<br/>
-
 ## 🎯 Sections
 
 | # | Section | Highlights |
